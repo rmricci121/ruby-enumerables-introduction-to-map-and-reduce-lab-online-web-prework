@@ -27,6 +27,7 @@ while counter < array.length do
   counter += 1 
 end 
 new_array
+<<<<<<< HEAD
 end
 
 def map_to_square(array)
@@ -69,4 +70,6 @@ end
 counter += 1 
 end
 return false
+=======
+>>>>>>> 76f88e54e55149a030c22d2706d9e7c1d887c549
 end
